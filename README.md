@@ -1,5 +1,9 @@
 # Intro
 
+Here is the link for our video:
+
+https://drive.google.com/file/d/1nik6CoDbA9lz_JCek2fXpkeANetvJQMj/view
+
 ### Context
 
 This repository contains information about what was developed by AIOX during the UltraHack challenge Data against Covid19.
